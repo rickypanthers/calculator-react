@@ -1,0 +1,12 @@
+.card {
+  border: 1px solid black;
+  height: 40vh;
+  width: 70vh;
+  margin: 5px;
+}
+
+.input-box {
+  width: 99%;
+  border-left: none;
+  margin-bottom: 5px;
+}

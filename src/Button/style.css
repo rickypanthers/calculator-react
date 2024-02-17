@@ -1,0 +1,13 @@
+button {
+  border: none;
+  background-color: lightblue;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.disabled {
+  background-color: #ebebe4;
+  color: palegrey;
+}
